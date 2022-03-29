@@ -2,7 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Highly motivated and detail-oriented production Engineer. Proven ability of problem identification and solving, 
+system establishment to eliminate defect generation and defect pass. 
+Application of QM tools with the in-depth knowledge of manufacturing processes to eliminate the possibility of non-conformance, 
+which result in the defect free increased rate of production
 
 [Link to another page](./another-page.html).
 
@@ -10,11 +13,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Education 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Gold medalist of sandwich Production Engineering from PSG College of Technology, Coimbatore 
 
-## Header 2
+## Experience 
+
+Assistant Manager in the department of Quality Assurance. 
 
 > This is a blockquote following a header.
 >
